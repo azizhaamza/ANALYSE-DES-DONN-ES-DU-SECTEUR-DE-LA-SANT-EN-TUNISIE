@@ -12,3 +12,13 @@ planifier de nouvelles activités statistiques et formuler des objectifs en mati
 # 4
 Une meilleure visualisation des données qui seront traiter pour une bonne prise de décision
 # LES ETAPES
+# 1 étape
+Collecte des données
+# 2 étape
+Compréhension des données
+# 3 étape
+Nettoyage des données
+# 4 étape
+Analyse
+# 5 étape
+visualisation
